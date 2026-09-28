@@ -89,10 +89,7 @@ Each notebook is self-contained and documents the workflow for the corresponding
 
 
 
-## 👩‍💻 Author
 
-**Namita S**  
-Research Summer Internship Project
 
 ---
 
