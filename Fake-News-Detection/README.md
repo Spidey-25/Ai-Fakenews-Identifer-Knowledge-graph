@@ -87,11 +87,7 @@ Each notebook is self-contained and documents the workflow for the corresponding
 
 ---
 
-## ✨ Key Takeaway
 
-Emotion-enriched features combined with **knowledge graph analysis** provide deeper insight into how fake news differs from real news — not just linguistically, but **semantically and structurally**.
-
----
 
 ## 👩‍💻 Author
 
